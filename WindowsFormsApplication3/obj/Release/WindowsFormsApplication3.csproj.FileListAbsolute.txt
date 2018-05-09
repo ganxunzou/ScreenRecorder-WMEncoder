@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\新建文件夹\23359164VedioScreen(Wmencoder)\VedioScreen(Wmencoder实现的录屏软件)\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe.config
+C:\Users\Administrator\Desktop\新建文件夹\23359164VedioScreen(Wmencoder)\VedioScreen(Wmencoder实现的录屏软件)\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form1.resources
+C:\Users\Administrator\Desktop\新建文件夹\23359164VedioScreen(Wmencoder)\VedioScreen(Wmencoder实现的录屏软件)\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Administrator\Desktop\新建文件夹\23359164VedioScreen(Wmencoder)\VedioScreen(Wmencoder实现的录屏软件)\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\新建文件夹\23359164VedioScreen(Wmencoder)\VedioScreen(Wmencoder实现的录屏软件)\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe
+C:\Users\Administrator\Desktop\新建文件夹\23359164VedioScreen(Wmencoder)\VedioScreen(Wmencoder实现的录屏软件)\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.pdb
+C:\Users\Administrator\Desktop\新建文件夹\23359164VedioScreen(Wmencoder)\VedioScreen(Wmencoder实现的录屏软件)\WindowsFormsApplication3\bin\Release\Microsoft.Expression.Encoder.dll
+C:\Users\Administrator\Desktop\新建文件夹\23359164VedioScreen(Wmencoder)\VedioScreen(Wmencoder实现的录屏软件)\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.exe
+C:\Users\Administrator\Desktop\新建文件夹\23359164VedioScreen(Wmencoder)\VedioScreen(Wmencoder实现的录屏软件)\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.pdb

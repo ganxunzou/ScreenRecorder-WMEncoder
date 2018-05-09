@@ -1,0 +1,6 @@
+E:\试验用小项目\TengGuang.VedioScreen\3实现\Core\bin\Debug\Core.dll
+E:\试验用小项目\TengGuang.VedioScreen\3实现\Core\bin\Debug\Core.pdb
+E:\试验用小项目\TengGuang.VedioScreen\3实现\Core\obj\Debug\ResolveAssemblyReference.cache
+E:\试验用小项目\TengGuang.VedioScreen\3实现\Core\obj\Debug\Core.dll
+E:\试验用小项目\TengGuang.VedioScreen\3实现\Core\obj\Debug\Core.pdb
+E:\试验用小项目\TengGuang.VedioScreen\3实现\Core\bin\Debug\Interop.WMEncoderLib.dll

@@ -1,0 +1,8 @@
+E:\2业务执行\EtherQQ\EtherQQ\bin\Debug\TengGuang.EtherQQ.exe
+E:\2业务执行\EtherQQ\EtherQQ\bin\Debug\TengGuang.EtherQQ.pdb
+E:\2业务执行\EtherQQ\EtherQQ\obj\Debug\ResolveAssemblyReference.cache
+E:\2业务执行\EtherQQ\EtherQQ\obj\Debug\TengGuang.EtherQQ.Properties.Resources.resources
+E:\2业务执行\EtherQQ\EtherQQ\obj\Debug\TengGuang.EtherQQ.csproj.GenerateResource.Cache
+E:\2业务执行\EtherQQ\EtherQQ\obj\Debug\TengGuang.EtherQQ.exe
+E:\2业务执行\EtherQQ\EtherQQ\obj\Debug\TengGuang.EtherQQ.pdb
+E:\2业务执行\EtherQQ\EtherQQ\obj\Debug\TengGuang.EtherQQ.frmMain.resources

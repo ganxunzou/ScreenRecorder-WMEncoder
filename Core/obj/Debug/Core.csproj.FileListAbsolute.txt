@@ -1,0 +1,11 @@
+E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Core\bin\Debug\Core.dll
+E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Core\bin\Debug\Core.pdb
+E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Core\bin\Debug\Interop.WMEncoderLib.dll
+E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Core\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Core\obj\Debug\Core.dll
+E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Core\obj\Debug\Core.pdb
+C:\Users\Administrator\Desktop\新建文件夹\23359164VedioScreen(Wmencoder)\VedioScreen(Wmencoder实现的录屏软件)\Core\bin\Debug\Core.dll
+C:\Users\Administrator\Desktop\新建文件夹\23359164VedioScreen(Wmencoder)\VedioScreen(Wmencoder实现的录屏软件)\Core\bin\Debug\Core.pdb
+C:\Users\Administrator\Desktop\新建文件夹\23359164VedioScreen(Wmencoder)\VedioScreen(Wmencoder实现的录屏软件)\Core\bin\Debug\Interop.WMEncoderLib.dll
+C:\Users\Administrator\Desktop\新建文件夹\23359164VedioScreen(Wmencoder)\VedioScreen(Wmencoder实现的录屏软件)\Core\obj\Debug\Core.dll
+C:\Users\Administrator\Desktop\新建文件夹\23359164VedioScreen(Wmencoder)\VedioScreen(Wmencoder实现的录屏软件)\Core\obj\Debug\Core.pdb

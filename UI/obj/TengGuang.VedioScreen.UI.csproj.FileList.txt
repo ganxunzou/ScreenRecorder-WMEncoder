@@ -1,0 +1,16 @@
+obj\Debug\TengGuang.VedioScreen.UI.exe
+obj\Debug\TengGuang.VedioScreen.UI.pdb
+bin\Debug\TengGuang.VedioScreen.UI.exe
+bin\Debug\TengGuang.VedioScreen.UI.pdb
+bin\Debug\TengGuang.VedioScreen.Core.dll
+bin\Debug\Interop.WMEncoderLib.dll
+bin\Debug\TengGuang.VedioScreen.Core.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TengGuang.VedioScreen.UI.Resources.Logo.ico
+obj\Debug\TengGuang.VedioScreen.UI.Control.SaveFile.resources
+obj\Debug\TengGuang.VedioScreen.UI.frmInit.resources
+obj\Debug\TengGuang.VedioScreen.UI.frmMain.resources
+obj\Debug\TengGuang.VedioScreen.UI.Properties.Resources.resources
+obj\Debug\TengGuang.VedioScreen.UI.Control.FindWindow.resources
+obj\Debug\TengGuang.VedioScreen.UI.csproj.GenerateResource.Cache
+obj\Debug\TengGuang.VedioScreen.UI.Control.ClipScreen.resources

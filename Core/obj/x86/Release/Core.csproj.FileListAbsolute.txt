@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\新建文件夹\23359164VedioScreen(Wmencoder)\VedioScreen(Wmencoder实现的录屏软件)\Core\bin\x86\Release\Core.dll
+C:\Users\Administrator\Desktop\新建文件夹\23359164VedioScreen(Wmencoder)\VedioScreen(Wmencoder实现的录屏软件)\Core\bin\x86\Release\Core.pdb
+C:\Users\Administrator\Desktop\新建文件夹\23359164VedioScreen(Wmencoder)\VedioScreen(Wmencoder实现的录屏软件)\Core\bin\x86\Release\Interop.WMEncoderLib.dll
+C:\Users\Administrator\Desktop\新建文件夹\23359164VedioScreen(Wmencoder)\VedioScreen(Wmencoder实现的录屏软件)\Core\obj\x86\Release\Core.dll
+C:\Users\Administrator\Desktop\新建文件夹\23359164VedioScreen(Wmencoder)\VedioScreen(Wmencoder实现的录屏软件)\Core\obj\x86\Release\Core.pdb
+C:\Users\Administrator\Desktop\新建文件夹\23359164VedioScreen(Wmencoder)\VedioScreen(Wmencoder实现的录屏软件)\Core\obj\x86\Release\Core.csprojResolveAssemblyReference.cache

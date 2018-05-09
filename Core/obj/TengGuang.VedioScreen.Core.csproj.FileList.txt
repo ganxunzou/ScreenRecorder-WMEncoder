@@ -1,0 +1,5 @@
+bin\Debug\TengGuang.VedioScreen.Core.dll
+bin\Debug\TengGuang.VedioScreen.Core.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TengGuang.VedioScreen.Core.dll
+obj\Debug\TengGuang.VedioScreen.Core.pdb

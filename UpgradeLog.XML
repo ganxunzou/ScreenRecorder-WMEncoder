@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="VedioScreen">
+</Property><Property Name="解决方案文件" Value="E:\项目\VedioScreen(Wmencoder实现的录屏软件)\VedioScreen.sln">
+</Property><Property Name="Date" Value="2010年12月13日">
+</Property><Property Name="Time" Value="1:10">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="VedioScreen.sln" Description="文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\VedioScreen.sln">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\UI.csproj" Description="项目文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\UI\UI.csproj">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\Control\ClipScreen.cs" Description="文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\UI\Control\ClipScreen.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\Control\ClipScreen.Designer.cs" Description="文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\UI\Control\ClipScreen.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\Control\FindWindow.cs" Description="文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\UI\Control\FindWindow.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\Control\FindWindow.Designer.cs" Description="文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\UI\Control\FindWindow.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\Control\SaveFile.cs" Description="文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\UI\Control\SaveFile.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\Control\SaveFile.Designer.cs" Description="文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\UI\Control\SaveFile.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\frmAbout.cs" Description="文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\UI\frmAbout.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\frmAbout.Designer.cs" Description="文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\UI\frmAbout.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\frmInit.cs" Description="文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\UI\frmInit.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\frmInit.Designer.cs" Description="文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\UI\frmInit.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\frmMain.cs" Description="文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\UI\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\frmMain.Designer.cs" Description="文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\UI\frmMain.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\Program.cs" Description="文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\UI\Program.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\UI\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\Properties\Resources.Designer.cs" Description="文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\UI\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\Properties\Settings.Designer.cs" Description="文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\UI\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\Properties\Settings.settings" Description="文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\UI\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\Resources\hand.jpg" Description="文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\UI\Resources\hand.jpg">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\Resources\Clip.jpg" Description="文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\UI\Resources\Clip.jpg">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\Resources\TengGuangLogo.jpg" Description="文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\UI\Resources\TengGuangLogo.jpg">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\Resources\ProcessBack.bmp" Description="文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\UI\Resources\ProcessBack.bmp">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\Resources\LogoRunning.ico" Description="文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\UI\Resources\LogoRunning.ico">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\Control\SaveFile.resx" Description="文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\UI\Control\SaveFile.resx">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\frmInit.resx" Description="文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\UI\frmInit.resx">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\Properties\Resources.resx" Description="文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\UI\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\Control\ClipScreen.resx" Description="文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\UI\Control\ClipScreen.resx">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\Control\FindWindow.resx" Description="文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\UI\Control\FindWindow.resx">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\frmAbout.resx" Description="文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\UI\frmAbout.resx">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\frmMain.resx" Description="文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\UI\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\Resources\Logo.ico" Description="文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\UI\Resources\Logo.ico">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\UI.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="UI" Source="UI\UI.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Core" Source="Core\Core.csproj" Description="项目文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\Core\Core.csproj">
+</Event><Event ErrorLevel="0" Project="Core" Source="Core\AudioVedioType.cs" Description="文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\Core\AudioVedioType.cs">
+</Event><Event ErrorLevel="0" Project="Core" Source="Core\IEncoder.cs" Description="文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\Core\IEncoder.cs">
+</Event><Event ErrorLevel="0" Project="Core" Source="Core\Recordor.cs" Description="文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\Core\Recordor.cs">
+</Event><Event ErrorLevel="0" Project="Core" Source="Core\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\Core\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Core" Source="Core\ScreenArea.cs" Description="文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\Core\ScreenArea.cs">
+</Event><Event ErrorLevel="0" Project="Core" Source="Core\MediaInfo.cs" Description="文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\Core\MediaInfo.cs">
+</Event><Event ErrorLevel="0" Project="Core" Source="Core\WMVEncoder.cs" Description="文件已成功备份为 E:\项目\VedioScreen(Wmencoder实现的录屏软件)\Backup\Core\WMVEncoder.cs">
+</Event><Event ErrorLevel="0" Project="Core" Source="Core\Core.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Core" Source="Core\Core.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="VedioScreen.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="VedioScreen.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="UI" Source="UI\UI.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="Core" Source="Core\Core.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>
